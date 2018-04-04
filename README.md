@@ -1,3 +1,7 @@
+## Smaring Official WiKi
+
+Hi, everyone, Thanks very much for your visiting on [Smaring WiKi](https://github.com/smaringcom/Wiki/wiki).
+
 ### wiki from [smaring.com](http://www.smaring.com/)
 
 
