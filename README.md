@@ -1,4 +1,4 @@
-## Smaring Official WiKi
+## [Smaring Official WiKi](https://github.com/smaringcom/Wiki/wiki)
 
 Hi, everyone, Thanks very much for your visiting on [Smaring WiKi](https://github.com/smaringcom/Wiki/wiki).
 
